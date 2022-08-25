@@ -1,0 +1,137 @@
+/* @media(max-width:998px){
+    a.nav-link{
+            text-align: center;
+            margin-top: 2px;
+    }
+
+    a.nav-link{
+
+        margin: 0;
+        display: inline-block;
+        margin-bottom: 15px;
+        
+    }
+    .nav-item{
+        text-align: center;
+    }
+}
+
+@media(max-width:817px){
+
+.banner-content p {
+    font-size: 16px;
+}
+
+.btn-download{
+    margin: auto;
+}
+
+}
+
+@media(max-width:777px){
+    .btn-view{
+        margin-right: -7px;
+    }
+
+}
+
+@media(max-width:575px){
+    .phone{
+        display: none;
+    }
+
+    .banner-content{
+        text-align: center;
+    }
+
+    .banner-content h1{
+        font-size: 28px;
+    }
+} */
+
+@media(max-width:381px) and (min-width:0px){
+    .btn-view{
+        margin-top: 5%;
+    }
+}
+
+@media(max-width:575px) and (min-width:0px){
+    a.nav-link{
+        text-align: center;
+        margin-top: 2px;
+}
+
+a.nav-link{
+
+    margin: 0;
+    display: inline-block;
+    margin-bottom: 15px;
+    
+}
+.nav-item{
+    text-align: center;
+}
+
+
+.banner-content p {
+    font-size: 16px;
+}
+
+.btn-download{
+    margin: auto;
+}
+
+.phone{
+    display: none;
+}
+
+.banner-content{
+    text-align: center;
+}
+
+.banner-content h1{
+    font-size: 28px;
+}
+
+.btn-view{
+    margin-right: -7px;
+}
+.iphone {
+    display: flex;
+    justify-content: center;
+}
+.plan{
+    margin-bottom: 10px;
+}
+
+form{
+    padding: 40px 40px;
+    width: 65%;
+    bottom: auto;
+}
+
+footer p{
+    font-size: 14px;
+}
+}
+
+@media(max-width:767px) and (min-width:576px){
+    .phone{
+        display: none;
+    }
+
+    .iphone {
+        display: flex;
+        justify-content: center;
+    }
+
+    .plan{
+        margin-bottom: 10px;
+    }
+
+    form{
+        padding: 40px 40px;
+        width: 65%;
+        bottom: auto;
+    }
+}
